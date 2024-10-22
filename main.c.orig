@@ -1,6 +1,7 @@
 this is  master file
 <<<<<<< HEAD
 new update file
-=======
 feature1 update
->>>>>>> feature1
+=======
+feature2
+>>>>>>> feature2
